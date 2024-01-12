@@ -1,2 +1,2 @@
-export const DB_NAME="freaktube";
+export const DB_NAME="freaktube"
 
